@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Smith is an excellent professor. His lectures are clear, and he is always willing to help students during office hours."
+      },
+      {
+        "professor": "Dr. Jane Doe",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Dr. Doe is very knowledgeable, but her exams are tough. Make sure to attend all lectures and review sessions."
+      },
+      {
+        "professor": "Dr. Albert Johnson",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Dr. Johnson’s lectures can be a bit dry, but he is very thorough in his explanations. His homework assignments are challenging."
+      },
+      {
+        "professor": "Dr. Emily White",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. White makes learning chemistry fun! Her labs are well-organized, and she explains concepts in a way that is easy to understand."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Brown is passionate about biology. His classes are engaging, but be prepared to study hard for his exams."
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "History",
+        "stars": 2,
+        "review": "Dr. Davis is very knowledgeable, but her lectures are often unorganized. It’s difficult to keep up with the material."
+      },
+      {
+        "professor": "Dr. Robert Wilson",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Dr. Wilson is an inspiring professor. His lectures are thought-provoking, and he encourages deep discussions."
+      },
+      {
+        "professor": "Dr. Laura Martinez",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Dr. Martinez’s classes are interesting, but she can be tough on grading. Participation in class discussions is crucial."
+      },
+      {
+        "professor": "Dr. Kevin Clark",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Dr. Clark explains economic theories very well. His lectures are well-structured, but the exams can be tricky."
+      },
+      {
+        "professor": "Dr. Nancy Lewis",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Dr. Lewis is one of the best professors I’ve had. Her lectures are engaging, and she really cares about her students."
+      },
+      {
+        "professor": "Dr. Steven Hall",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Hall is knowledgeable, but his lectures can be a bit monotonous. The course material is interesting, though."
+      },
+      {
+        "professor": "Dr. Lisa King",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Dr. King has a deep understanding of literature. Her classes are intellectually stimulating, but the reading load is heavy."
+      },
+      {
+        "professor": "Dr. James Allen",
+        "subject": "Engineering",
+        "stars": 5,
+        "review": "Dr. Allen is a fantastic professor. He explains complex engineering concepts in a way that is easy to understand."
+      },
+      {
+        "professor": "Dr. Mary Gonzalez",
+        "subject": "Anthropology",
+        "stars": 2,
+        "review": "Dr. Gonzalez is very knowledgeable, but her lectures are hard to follow. The course material is interesting, but the exams are difficult."
+      },
+      {
+        "professor": "Dr. Richard Scott",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Scott is passionate about the environment. His lectures are engaging, and he encourages hands-on learning."
+      },
+      {
+        "professor": "Dr. Karen Young",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Dr. Young is very enthusiastic about art history. Her lectures are detailed, and she is always open to questions."
+      },
+      {
+        "professor": "Dr. Thomas Harris",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Dr. Harris is knowledgeable, but his lectures can be a bit dry. The material is challenging, but he is helpful during office hours."
+      },
+      {
+        "professor": "Dr. Angela Moore",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Dr. Moore is an outstanding professor. Her lectures are fascinating, and she is always willing to help students understand the material."
+      },
+      {
+        "professor": "Dr. William Roberts",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Dr. Roberts is very experienced in business. His lectures are practical, and he provides valuable insights into the industry."
+      },
+      {
+        "professor": "Dr. Patricia Taylor",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Dr. Taylor is an amazing music professor. Her classes are enjoyable, and she encourages students to explore their creativity."
+      }
+    ]
+}
+  
